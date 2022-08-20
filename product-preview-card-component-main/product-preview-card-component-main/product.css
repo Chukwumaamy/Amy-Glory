@@ -1,0 +1,55 @@
+#picture{
+    width:350px;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    box-sizing:border-box;
+}
+
+#section{
+    width:100%;
+    border-width:20px;
+    box-sizing:border-box;
+    margin-left:10px;
+    display:grid;
+    grid-auto-flow: column;
+    grid-auto-rows: 1fr;
+    gap:10px;
+    background-color: hsl(30, 38%, 92%);
+}
+
+h1{
+    font-weight:lighter;
+    letter-spacing:15px;
+    font-size:30px;
+}
+
+#gab{
+    font-weight:bold;
+    font-size:32px;
+    position:relative;
+    display:block;
+}
+
+h3{
+    color:green;
+    font-size:30px;
+}
+
+#raise{
+    color:black;
+    font-size:15px;
+}
+
+button{
+    background-color:rgb(6, 38, 6);
+    color:antiquewhite;
+    border-radius:7px;
+    width:150px;
+}
+
+
+
+
+
+
+
